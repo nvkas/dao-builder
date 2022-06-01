@@ -15,4 +15,3 @@
 # vendor/
 .*
 !.gitignore
-sign/sign.json
